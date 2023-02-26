@@ -46,7 +46,10 @@ body {
     margin-top: 25px;
     margin-bottom: 30px;
 }
-
+#annual-plan-cost{
+    font-weight: 500;
+    font-size: 14px;
+}
 .col-img {
     height: 48px;
     width: 48;
