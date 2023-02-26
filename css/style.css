@@ -46,7 +46,10 @@ body {
     margin-top: 25px;
     margin-bottom: 30px;
 }
-
+#annual-plan-cost{
+    font-weight: 500;
+    font-size: 14px;
+}
 .col-img {
     height: 48px;
     width: 48;
@@ -105,9 +108,7 @@ body {
     color: hsl(223, 47%, 23%);
    
   }
-  .top-card{
-    padding: 50px 45px 40px 45px;
-}
+
 
   @media (max-width: 768px) {
     .container-fluid {
@@ -119,9 +120,7 @@ body {
         background-size: initial;
         background-color: #DFE8FF;
     }
-    .top-card{
-        padding: 0;
-    }
+ 
   }
   
   
